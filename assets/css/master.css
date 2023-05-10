@@ -1,0 +1,27 @@
+:root {
+  font-family: "Arimo", sans-serif !important;
+}
+
+body {
+  background: rgb(78, 1, 41);
+}
+
+main {
+  height: 100vh !important;
+}
+
+#para {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  height: 200px;
+}
+#para #text {
+  height: 100px;
+}
+
+button {
+  color: white !important;
+  font-weight: 500 !important;
+}/*# sourceMappingURL=master.css.map */
